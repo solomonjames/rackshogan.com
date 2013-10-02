@@ -1,3 +1,5 @@
 name: Racks Hogan
 markdown: redcarpet
 pygments: true
+timezone: America/New_York
+permalink: /blog/:year/:month/:day/:title
